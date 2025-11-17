@@ -1,6 +1,6 @@
 # AutoCon 4 | WS:B2
 
-### Design-Driven (Container)Labs and Change Validation
+### Design-Driven  (Container)Labs and Change Validation
 
 [Lab Guide](https://networktocode.github.io/autocon4-design-workshop/)
 
